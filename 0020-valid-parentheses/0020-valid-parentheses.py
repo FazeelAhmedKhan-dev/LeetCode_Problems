@@ -15,6 +15,7 @@ class Solution:
                     stack.pop()
                 else:
                     return False
+            
             else:
                 stack.append(i)
         
