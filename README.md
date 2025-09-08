@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 <!---LeetCode Topics End-->
