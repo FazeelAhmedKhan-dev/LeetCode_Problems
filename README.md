@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Tree
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
