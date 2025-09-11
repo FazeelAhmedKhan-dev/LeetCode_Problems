@@ -9,9 +9,10 @@ class Solution:
             if s[i].lower() in vowels:
                 vowels_in_str.append(ord(s[i]))
         vowels_in_str.sort()
+        k = 0
         for j in range(len(s)):
             if s[j].lower() in vowels:
-                s[j] = chr(vowels_in_str[0])
-                vowels_in_str.pop(0)
+                s[j] = chr(vowels_in_str[k])
+                k += 1
         
         return "".join(s)
