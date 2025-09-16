@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
