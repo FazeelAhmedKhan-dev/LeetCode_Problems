@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1603-running-sum-of-1d-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
