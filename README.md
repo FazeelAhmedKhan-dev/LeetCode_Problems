@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1603-running-sum-of-1d-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Brainteaser
 |  |
