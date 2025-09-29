@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1603-running-sum-of-1d-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
