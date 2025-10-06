@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 ## Stack
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 ## Math
 |  |
 | ------- |
@@ -182,8 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
