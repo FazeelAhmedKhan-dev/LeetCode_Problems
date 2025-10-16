@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Union Find
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
