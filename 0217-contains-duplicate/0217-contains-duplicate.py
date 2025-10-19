@@ -6,5 +6,4 @@ class Solution:
             if i in duplicate:
                 return True
             duplicate.add(i)
-
-        return False 
+        return False
