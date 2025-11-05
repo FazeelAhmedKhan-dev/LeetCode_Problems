@@ -1,26 +1,20 @@
+from collections import defaultdict
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        rows = [set() for _ in range(9)]
-        cols = [set() for _ in range(9)]
-        boxes = [set() for _ in range(9)]  # 3x3 boxes indexed from 0 to 8
         
+        grid = defaultdict(set)
+        rows = defaultdict(set)
+        cols = defaultdict(set)
+
         for i in range(9):
             for j in range(9):
-                val = board[i][j]
-                if val == ".":
+                if board[i][j] == ".":
                     continue
-                
-                if val in rows[i]:
+                if board[i][j] in rows[i] or board[i][j] in cols[j] or board[i][j] in grid[(i//3, j//3)]:
                     return False
-                rows[i].add(val)
                 
-                if val in cols[j]:
-                    return False
-                cols[j].add(val)
-                
-                box_index = (i // 3) * 3 + (j // 3)
-                if val in boxes[box_index]:
-                    return False
-                boxes[box_index].add(val)
-        
+                grid[(i//3, j//3)].add(board[i][j])
+
+                rows[i].add(board[i][j])
+                cols[j].add(board[i][j])
         return True
