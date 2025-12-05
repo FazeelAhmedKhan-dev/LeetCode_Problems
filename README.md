@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
