@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
@@ -259,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
