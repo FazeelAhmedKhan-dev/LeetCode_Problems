@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
