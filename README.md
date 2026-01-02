@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
