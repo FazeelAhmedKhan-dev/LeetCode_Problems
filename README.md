@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
