@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1975-maximum-matrix-sum](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
+| [1975-maximum-matrix-sum](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1975-maximum-matrix-sum](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1975-maximum-matrix-sum) |
 ## Brainteaser
 |  |
 | ------- |
