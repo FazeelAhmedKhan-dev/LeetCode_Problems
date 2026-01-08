@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1390-four-divisors](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1603-running-sum-of-1d-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1791-richest-customer-wealth](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
