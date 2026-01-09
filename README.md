@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
