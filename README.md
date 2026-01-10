@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2887-sort-vowels-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
