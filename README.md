@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1266-minimum-time-visiting-all-points](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1603-running-sum-of-1d-array](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1642-water-bottles) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Combinatorics
 |  |
 | ------- |
