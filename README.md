@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1859-sorting-the-sentence](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1859-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2887-sort-vowels-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1859-sorting-the-sentence](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/1859-sorting-the-sentence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/FazeelAhmedKhan-dev/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
